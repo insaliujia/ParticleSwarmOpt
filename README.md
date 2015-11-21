@@ -4,7 +4,7 @@ ParticleSwarmOpt is a optimization tool using particle swarm optimization algori
 
 No tool box is needed. Add the path to your Matlab, then you can use it.
 
-This code cannot do discrete search.
+This code cannot do discrete search and do not support multi-objective optimization.
 
 For the text functions please check this websit:
 
