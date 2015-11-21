@@ -10,4 +10,4 @@ License
 MIT
 
 
-   [My websit]: <www.l-j.xyz/>
+   [My websit]: <http://l-j.xyz/>
